@@ -1,0 +1,6 @@
+C:\Users\ashwin.sathwara\source\repos\RTSP.Server\obj\Release\RTSP.Server.njsproj.AssemblyReference.cache
+C:\Users\ashwin.sathwara\source\repos\RTSP.Server\obj\Release\RTSP.Server.njsproj.CoreCompileInputs.cache
+C:\Users\ashwin.sathwara\source\repos\RTSP.Server\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\ashwin.sathwara\source\repos\RTSP.Server\RTSP.Server\obj\Release\RTSP.Server.njsproj.AssemblyReference.cache
+C:\Users\ashwin.sathwara\source\repos\RTSP.Server\RTSP.Server\obj\Release\RTSP.Server.njsproj.CoreCompileInputs.cache
+C:\Users\ashwin.sathwara\source\repos\RTSP.Server\RTSP.Server\bin\Microsoft.NodejsTools.WebRole.dll
